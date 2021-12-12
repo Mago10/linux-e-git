@@ -1,0 +1,9 @@
+O que é Linux?
+ - É um KERNEL --> faz a interface entre o software e o hardware --> Firmware
+ - NÃO é um sistema operacional
+
+Dual boot
+ - Linux e Windows em paralelo --> alocação de memória de disco
+
+Ubuntu
+ - Linux "dentro" do Windows --> alocação de memória RAM
