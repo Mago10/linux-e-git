@@ -1,0 +1,14 @@
+Instalando o Git
+ - sudo apt-get install git
+ - git init
+ - git config --global user.name "nome"
+ - git config --global user.email "email"
+
+Importando um repositório
+ - git clone <URL do repositório> --> HTTPS
+
+Comandos iniciais
+ - git status --> ver se tem algo para commitar ou que não está sendo trackeado
+ - git add arquivo / git add . --> joga arquivo para staging area
+ - git commit  -m 'Mensagem' --> commita o que está na staging area
+ - git log / git log --oneline --> histórico de modificações
