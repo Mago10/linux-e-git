@@ -1,0 +1,11 @@
+GIT
+ - Controle de Versão
+ - Permite que reverta qualquer mudança e volte a uma versão anterior
+ - controle de versão distribuído --> não está no servidor, é local
+
+Conceitos
+ - working directory -- git add arquivo -> staging area -- git commit -m 'Mensagem' -> Repository
+ - commit: ponto da linha do tempo
+ - branch: ramo
+ - merge: junta branchs
+
