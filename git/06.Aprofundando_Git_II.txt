@@ -1,0 +1,12 @@
+Trabalhando com Branches
+ - git merge nome_da_branch: junta a branch --> fazer no local em que quer juntar (normalmente na main)
+
+ - git checkout HEAD~1: volta um commit (APENAS NAVEGAÇÃO! NÃO APAGA)
+ - git reset HEAD~1: volta para commit anterior e APAGA COMMIT ATUAL
+ - git reset --hard HEAD~1: APAGA tudo o que vem depois do commit atual
+ - git revert id_commit: apaga mudanças do commit, mas mantém tudo o que vem depois
+
+GitHub
+
+- git pull: puxar repositório remoto
+- git push: empurrar para o remoto
