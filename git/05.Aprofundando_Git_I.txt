@@ -1,0 +1,13 @@
+Outros comandos
+ - .gitignore --> arquivos que não serão considerados no commit
+	- touch .gitignore: cria o arquivo
+        - nano .gitignore --> adicionar os nomes dos arquivos que quer ignorar no commit
+ - git diff --> mostra as diferenças entre o seu último commit e a sua working directory
+ - git show --> detalhes do último commit
+ - git commit -a -m 'Mensagem' --> se estou ATUALIZANDO, não preciso dar o git add
+
+CRIAR BRANCH
+ - git branch nome_da_branch: cria nova branch
+ - git branch -a: lista as branches
+ - git checkout nome_da_branch: muda para determinada branch
+
