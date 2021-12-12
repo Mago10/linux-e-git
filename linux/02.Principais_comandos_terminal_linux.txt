@@ -1,0 +1,17 @@
+Comandos - Diretórios
+ - ls --> listar os arquivos que estão no seu diretório atual
+ - cd --> mudar de diretório
+ - mkdir --> criar um diretório (make directory)
+ - rmdir --> remove um diretório (remove directory)
+
+Comandos - Arquivos
+ - touch --> cria arquivo
+ - nano --> edita arquivo
+ - rm --> remove arquivo
+ - cat --> mostra conteúdo do arquivo
+ - cp arquivo novo_nome --> copia um arquivo
+ - mv arquivo pasta --> move arquivo para outra pasta
+ - cp arquivo novo_nome && rm arquivo --> renomeia arquivo
+
+Comandos - Instalação
+ - sudo apt install
